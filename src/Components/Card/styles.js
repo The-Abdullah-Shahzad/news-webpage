@@ -3,9 +3,9 @@ import styled from 'styled-components'
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 1rem;
   width: 350px;
-  min-height: 400px;
+  min-height: 40px;
 
   @media screen and (max-width: 760px) {
     width: 250px;
