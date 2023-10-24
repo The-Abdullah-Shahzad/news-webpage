@@ -18,7 +18,6 @@ export const Content = styled.div`
   display: flex;
   flex-wrap: wrap;
   gap: 5rem;
-  align-items: center;
   @media screen and (max-width: 850px) {
     gap: 1rem;
     justify-content: center;

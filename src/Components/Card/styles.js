@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 10px;
   width: 350px;
   min-height: 40px;
 
